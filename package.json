@@ -1,0 +1,8 @@
+{
+  "name": "mentorship-practices",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:kunyan/mentorship-practices.git",
+  "author": "Kun Yan <kyan@redhat.com>",
+  "license": "GPL-3.0"
+}
